@@ -52,5 +52,3 @@ Este projeto proporcionou uma visão completa do processo de design centrado no 
 
 ---
 
-## 📂 Estrutura do Repositório
-
