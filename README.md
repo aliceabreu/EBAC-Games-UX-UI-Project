@@ -1,6 +1,5 @@
 # 🎮 EBAC Games - Projeto de UX/UI Design
 
-teste
 Este projeto foi desenvolvido como parte do curso da EBAC, com o objetivo de criar uma plataforma de jogos acessível, visualmente atrativa e funcional para diversos tipos de usuários. Desde a pesquisa até a prototipação, o processo foi guiado por metodologias centradas no usuário, garantindo uma solução coerente com as reais necessidades do público.
 
 ---
