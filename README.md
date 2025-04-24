@@ -24,9 +24,9 @@ Desenvolver um site de e-commerce de jogos com foco na experiência do usuário.
 
 ---
 
-## 📸 Imagens do Projeto
+## :file_folder: Documentos do projeto
 
-Imagens como banners, wireframes e telas do protótipo estão disponíveis na pasta `/images`.
+Este documento reúne todas as etapas do desenvolvimento do projeto **EBAC Games** `/documentos.md`.
 
 ---
 
