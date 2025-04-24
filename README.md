@@ -32,7 +32,7 @@ Imagens como banners, wireframes e telas do protótipo estão disponíveis na pa
 
 ## 🔗 Protótipo no Figma
 
-[👉 Acesse o protótipo clicando aqui]([[https://www.figma.com/design/vDnrIzRIxiuee5vzGwYCeN/Wireframe-EBAC-Games?node-id=7-2](https://www.figma.com/proto/vDnrIzRIxiuee5vzGwYCeN/Wireframe-EBAC-Games?node-id=31-200&t=VHfd1evRmgQcCzol-1)])
+👉 Acesse o protótipo clicando [aqui](https://www.figma.com/proto/vDnrIzRIxiuee5vzGwYCeN/Wireframe-EBAC-Games?node-id=31-200&t=VHfd1evRmgQcCzol-1)
 
 ---
 
